@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Process Control Systems"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "16014cbe-1764-0851-8d3a-755b3c87120b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Integrated Chemical Engineering Topics I: Introduction to Biocatalysis",
+  "course_description": "This course provides a brief introduction to the field of biocatalysis in the context of process design. Fundamental topics include why and when one may choose to use biological systems for chemical conversion, considerations for using free enzymes versus whole cells, and issues related to design and development of bioconversion processes. Biological and engineering problems are discussed as well as how one may arrive at both biological and engineering solutions.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.492-2",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
